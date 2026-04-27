@@ -11,6 +11,38 @@
 <h1><b>Desafio 2</b></h1>
 
 
+ <b><p>DESAFIO 2</p></b>
+        <table border="2"
+    
+            <tr>
+                
+                <th colspan="4">Configuração dos Apartamentos</th>
+            </tr>
+                <tr>
+                    <th colspan="2">Todos</th>
+                    <th>Standard</th>
+                    <th colspan="2">Luxo</th>
+                </tr>
+                    <tr>
+                        <td colspan="2">Ar-condicionado <br> frigobar</td>
+                        <th>17m2 <br>TV 14" </th>
+                        <th colspan="2">21m2 <br> TV 21"</th>
+                    </tr>
+                        <tr>
+                            <td rowspan="2">diaria por temporada</td>
+                            <th>alta</th>
+                            <th>200</th>
+                            <th>250</th>
+                        </tr>
+                            <tr>
+                                <th>baixa</th>
+                                <th>150</th>
+                                <th>200</th>
+
+                            </tr>
+    
+    
+        </table>
 
 
 
